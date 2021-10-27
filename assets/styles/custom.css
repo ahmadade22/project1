@@ -1,0 +1,11 @@
+body{
+    background-color: white;
+    /*border: 10px sloid grey*/
+    background-image: none;
+}
+
+.hero {
+    grid-area: hero;
+    min-height: 400px;
+    background: white url(../images/rendang-ade.jpg);
+  }
